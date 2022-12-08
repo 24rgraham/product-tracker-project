@@ -1,4 +1,6 @@
  # Product Tracker Project  
+ ![](https://img.shields.io/badge/License-MIT_License-blue) 
+
 ## Description
 
 This application stores product information and associations in a database where information can be retreived, added, updated, or deleted trough various routes. 
@@ -6,6 +8,7 @@ This application stores product information and associations in a database where
 ## Table of Contents 
  - [Installation](#installation) 
  - [Usage](#usage) 
+ - [Tests](#tests) 
 
 ## Installation
 
@@ -14,6 +17,11 @@ To install this application the user will need to run the command "npm install" 
 ## Usage
  
 The server functionality can be seen by running get, post, put, and delete methods through insomnia.
+
+## Tests
+
+https://youtu.be/EZCUlIOleYo
+
 ## Questions? 
 
 Contact me at: 
